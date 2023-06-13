@@ -1,0 +1,22 @@
+.jumbotron {
+    text-align:center;
+    align-items: center;
+    background-color: rgba(5, 5, 34, 0.842);
+    border-radius: 90px;
+    color: aliceblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px;
+    margin-top: 50px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    color: yellow;
+}
+
+p {
+    text-align:center;
+    font-size: 25px;
+    color: rgb(247, 189, 208);
+}

@@ -1,0 +1,38 @@
+/*Para Excel*/
+.card {
+    text-align: center;
+    color: rgb(141, 241, 132);
+    background-color: rgba(12, 5, 29, 0.938);
+}
+
+.card-title{
+    color: rgb(21, 255, 0);
+}
+
+button{
+    color: rgb(252, 253, 255);
+    background-color: rgba(8, 48, 11, 0.74);
+    padding: 10px;
+    border-radius: 30px;
+}
+
+
+/*Para Word*/
+.card-titleWord{
+    color: rgb(15, 195, 250);
+}
+
+.card-textWord{
+    text-align: center;
+    color: rgb(77, 148, 153);
+}
+
+.buttonWord{
+    color: rgb(252, 253, 255);
+    background-color: rgba(8, 25, 48, 0.74);
+    padding: 10px;
+    border-radius: 30px;
+}
+
+
+/*Para otros*/
